@@ -1,0 +1,40 @@
+/*
+
+Color Palette
+----
+Primary Color (salmon): #D76C58
+Secondary Color (dark grey): #313131
+Accent Color (dark salmon): #F87759
+
+Typography
+----
+Headlines: font-family: 'Abril Fatface', cursive;
+Body Copy:font-family: 'Merriweather', serif;
+
+
+Patterns: http://subtlepatterns.com/?s=fashion
+*/
+
+/* Global or Sitewide */
+body {
+    background: url("../img/60degree_gray.png");
+}
+/* Typography */
+h1,h2 {
+    font-family: 'Abril Fatface', cursive;
+    color: #313131;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+p. blockquote {
+    font-family: 'Merriweather', serif;
+    font-size: 1.15em;
+    line-height: 1.5em;
+}
+
+blockquote {
+    font-size: 2em;
+    padding: 0 4em;
+    text-align: center;
+}
